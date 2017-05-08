@@ -1,0 +1,9 @@
+- Tên đề tài: Phần mềm xem lịch Calendar
+
+- Lý do chọn đề tài: Bước đầu làm quen với ngôn ngữ lập trình C#
+nên nhóm chọn đề tài đơn giản nhằm quản lý tốt quá trình xây dựng
+cũng như mong đạt được kết quả tốt nhất
+
+- Chức năng: Xem lịch, chọn ngày
+
+- Ngôn ngữ: C#
